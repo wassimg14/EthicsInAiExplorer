@@ -1,6 +1,6 @@
 # Ethics-in-AI Explorer
 
-A beautiful, modern web application that transforms AI use case descriptions into comprehensive risk assessments, actionable mitigations, and real-world case studies. Powered by OpenAI's GPT-4 for intelligent analysis.
+A website that transforms AI use case descriptions into comprehensive risk assessments, actionable mitigations, and real-world case studies. Powered by OpenAI's GPT-4 for intelligent analysis.
 
 ## What This Website Does
 
